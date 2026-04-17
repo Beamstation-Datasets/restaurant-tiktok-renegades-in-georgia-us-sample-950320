@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "--Social Platform Gap-- \n\nHigh IG followers (>10k) but near-zero activity on TikTok presence. Perfect for social media and content agencies.",
+  "config_name": "Restaurant TikTok Renegades in Georgia, US",
+  "export_job_id": "3c929651-d926-48a1-a67b-998fd9ea3dec",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 950320,
+  "location_name": "Georgia",
+  "location_type": "state",
+  "repo_name": "restaurant-tiktok-renegades-in-georgia-us-sample-950320",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/950320/beamstation_950320_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_pct": 9.35,
+  "sample_records": 13,
+  "sample_sha256": "f961b0e9c25ff6ca389cd5f41d9b0e67944d91706125c50a8782b36c723cdcc8",
+  "sample_size_bytes": 70225,
+  "total_records": 139,
+  "updated_at": "2026-04-08T05:05:08.340041+00:00"
+}

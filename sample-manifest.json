@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5c296036-4126-4535-8aa6-a08c965da556",
+  "export_job_id": "9621faa2-a5b7-4281-923c-f3a03b07ba17",
   "id_short": 950320,
-  "published_at": "2026-04-23T07:18:46Z",
+  "published_at": "2026-04-29T19:48:24Z",
   "repo_name": "restaurant-tiktok-renegades-in-georgia-us-sample-950320",
   "sample_asset_name": "beamstation_950320_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/950320/beamstation_950320_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "2c068ba8163603be9d4060b1f6220bd9c680f0992e71c2f70848608b7684b21f",
-  "sample_size_bytes": 49855,
-  "total_records": 85
+  "sample_records": 14,
+  "sample_sha256": "1241cfd6d225a968eb2815ddd625534557cb63d1ed877132ef5a70db9dad3484",
+  "sample_size_bytes": 74900,
+  "total_records": 147
 }

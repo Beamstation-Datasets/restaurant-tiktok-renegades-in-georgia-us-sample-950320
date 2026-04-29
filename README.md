@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in Georgia, US
 
-> Free BeamStation sample export with 8 rows and masked direct-contact fields.
+> Free BeamStation sample export with 14 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `950320` |
 | Location | Georgia |
 | Category | Restaurants |
-| Full dataset size | 85 records |
-| Free sample size | 8 records (9.41%) |
-| Last export | 2026-04-22T16:44:40.835126+00:00 |
+| Full dataset size | 147 records |
+| Free sample size | 14 records (9.52%) |
+| Last export | 2026-04-29T16:38:08.885318+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-georgia-us-sample-950320/releases/download/sample-latest/beamstation_950320_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
